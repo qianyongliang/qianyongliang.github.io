@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as n}from"./app.5b28be51.js";const o={},_=n("p",null,"\u5F85\u66F4\u65B0....",-1),c=[_];function s(r,i){return t(),a("div",null,c)}var m=e(o,[["render",s],["__file","animation.html.vue"]]);export{m as default};
